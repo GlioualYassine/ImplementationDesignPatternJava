@@ -1,4 +1,4 @@
-package org.example.creational.abstractMethod;
+package org.example.creational.FactoryMethod;
 
 public class MobileButton implements Button {
     @Override
